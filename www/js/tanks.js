@@ -48,7 +48,7 @@ Game.prototype = {
 
 		setTimeout(function(){
 			$('#expl' + tank.id).remove();
-		}, 1000);
+		}, 8000);
 
 	},
 
