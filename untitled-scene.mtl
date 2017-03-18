@@ -1,0 +1,56 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl Material_001__Venom_Joker_Legs_D_tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.840000 0.200000 0.200000
+Ks 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material_001__Venom_Joker_Torso_D_tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.840000 0.200000 0.200000
+Ks 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material__Venom_Joker_Legs_D_tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.231373 0.234510 0.240784
+Ks 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material__Venom_Joker_Torso_D_tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.231373 0.234510 0.240784
+Ks 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Venom_Joker_Legs_Mat__Venom_Joker_Legs_D_tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.423529 0.203922
+Ks 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Venom_Joker_Torso_Mat__Venom_Joker_Torso_D_tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.207843 0.282353
+Ks 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
